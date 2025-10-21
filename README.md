@@ -24,27 +24,14 @@ Aplikacija koristi lokalnu bazu podataka (db.json) za čuvanje informacija o kor
 
 **Opis strukture projekta**
 Root:
-- db.json
-
-src/
-  Components/
-    - Destinacije.js
-    - Footer.js
-    ...
-  Pages/
-    - AdminPanel.js
-    - Kontakt.js
-    ...
-  - App.css
-  - App.js
-  - README.md
-  ...
-
-public/
-  images/ (slike za Ponudu i db.json)
-  screenshots/ (snimci radne aplikacije)
-  favicon.ico, index.html, manifest.json...
-
+1. src/
+    Components (Destinace.js, Rezervacija.js, Header.js, Footer.js, pozadina.avif)
+    Pages (AdminPanel.js, Pocetna.js, Onama.js, Login.js, Register.js, Kontakt.js, Ponuda.js, Profil.js)
+2. public/
+    images/ (slike za Ponudu i db.json)
+    screenshots/ (snimci radne aplikacije)
+    favicon.ico, index.html, manifest.json...
+3. db.json
 
 **Funkcionalnosti i opis dizajna**
 Dizajn se temelji na modernom i responzivnom korisničkom interfejsu. Korišten je fleksibilan raspored (flex i grid layout) koji omogućava uredan prikaz elemenata na desktop i mobilnim uređajima.
@@ -70,7 +57,8 @@ Fontovi:
 1. 'Outfit',sans-serif (osnovni font za tijelo)
 2. 'Syne',sans-serif (za logotip i naslove)
 
-**Uloge korisnika** \n
+**Uloge korisnika** 
+
 Postoje dvije glavne uloge korisnika: Admin i Guest. Svaka uloga ima različita prava pristupa i funkcionalnosti u aplikaciji.
 1. Guest: može pregledati ponudu destinacija, može napraviti rezervaciju, može vidjeti svoje podatke na stranici profil.js, u navbaru ne vidi opciju AdminPanel pa ne može ni pristupiti toj stranici
 2. Admin: u navbaru vidi opciju AdminPanel i jedini ima pristup toj stranici, ima pregled svih rezervacija korisnika, može dodavati i brisati destinacije, može vidjeti sve funckionalnosti dostupne guest korisnicima
