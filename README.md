@@ -23,6 +23,7 @@ Aplikacija koristi lokalnu bazu podataka (db.json) za čuvanje informacija o kor
 6. Node.js & npm (Node.js za pokretanje JavaScript koda lokalno, npm za instalaciju potrebnih paketa projekta).
 
 **Opis strukture projekta**
+
 Root:
 
 1. src/
@@ -40,6 +41,7 @@ Root:
 3. db.json
 
 **Funkcionalnosti i opis dizajna**
+
 Dizajn se temelji na modernom i responzivnom korisničkom interfejsu. Korišten je fleksibilan raspored (flex i grid layout) koji omogućava uredan prikaz elemenata na desktop i mobilnim uređajima.
 
 Glavne funkcionalnosti:
