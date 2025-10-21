@@ -59,15 +59,23 @@ Glavne funkcionalnosti:
 7. Footer: bijeli tekst na gradijentnoj pozadini
 
 Paleta boja:
+
 #e96443 primarna boja (pozadinski gradijent, naslovi, dugmad, hover efekti)
+
 #904e95 sekundarna boja (pozadinski gradijent, ikone, naglašeni elementi)
+
 #fff (tekst i pozadine nekih sekcija)
+
 #444 (tekst unutar svijetlih sekcija)
+
 #0077cc (dugme na admin panelu)
+
 prozirni slojevi i sjene (rgba bijela ili crna boja)
 
 Fontovi:
+
 'Outfit',sans-serif (osnovni font za tijelo)
+
 'Syne',sans-serif (za logotip i naslove)
 
 **Uloge korisnika**
