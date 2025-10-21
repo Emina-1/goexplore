@@ -70,7 +70,7 @@ Fontovi:
 1. 'Outfit',sans-serif (osnovni font za tijelo)
 2. 'Syne',sans-serif (za logotip i naslove)
 
-**Uloge korisnika**
+**Uloge korisnika** \n
 Postoje dvije glavne uloge korisnika: Admin i Guest. Svaka uloga ima različita prava pristupa i funkcionalnosti u aplikaciji.
 1. Guest: može pregledati ponudu destinacija, može napraviti rezervaciju, može vidjeti svoje podatke na stranici profil.js, u navbaru ne vidi opciju AdminPanel pa ne može ni pristupiti toj stranici
 2. Admin: u navbaru vidi opciju AdminPanel i jedini ima pristup toj stranici, ima pregled svih rezervacija korisnika, može dodavati i brisati destinacije, može vidjeti sve funckionalnosti dostupne guest korisnicima
