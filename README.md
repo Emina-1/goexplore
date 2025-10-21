@@ -22,32 +22,29 @@ Aplikacija koristi lokalnu bazu podataka (db.json) za čuvanje informacija o kor
 5. JSON Server (alat za brzo postavljanje lažnog REST API-ja za razvoj i testiranje backend funkcionalnosti)
 6. Node.js & npm (Node.js za pokretanje JavaScript koda lokalno, npm za instalaciju potrebnih paketa projekta).
 
-**Struktura projekta**
+**Opis strukture projekta**
+Root:
+- db.json
+
 src/
-├─ Components/
-│  ├─ Destinacije.js
-│  ├─ Footer.js
-│  ├─ Header.js
-│  ├─ pozadina.avif
-│  └─ Rezervacija.js
-├─ Pages/
-│  ├─ AdminPanel.js
-│  ├─ Kontakt.js
-│  ├─ Login.js
-│  ├─ Onama.js
-│  ├─ Pocetna.js
-│  ├─ Ponuda.js
-│  ├─ Profil.js
-│  └─ Register.js
-├─ App.css
-├─ App.js
-├─ App.test.js
-├─ index.css
-├─ index.js
-├─ logo.svg
-├─ README.md
-├─ reportWebVitals.js
-└─ setupTests.js
+  Components/
+    - Destinacije.js
+    - Footer.js
+    ...
+  Pages/
+    - AdminPanel.js
+    - Kontakt.js
+    ...
+  - App.css
+  - App.js
+  - README.md
+  ...
+
+public/
+  images/ (slike za Ponudu i db.json)
+  screenshots/ (snimci radne aplikacije)
+  favicon.ico, index.html, manifest.json...
+
 
 **Funkcionalnosti i opis dizajna**
 Dizajn se temelji na modernom i responzivnom korisničkom interfejsu. Korišten je fleksibilan raspored (flex i grid layout) koji omogućava uredan prikaz elemenata na desktop i mobilnim uređajima.
@@ -96,27 +93,27 @@ Neprijavljeni korisnik može samo pregledati ponudu, ali ne može izvršiti reze
 **Snimci ekrana radne aplikacije**
 
 1. Početna stranica:
-![Početna stranica](public/screenshots/pocetna.png)
+![Početna stranica](./public/screenshots/pocetna.png)
 2. Ponuda:
-![Ponuda](public/screenshots/ponuda.png)
-![Modal](public/screenshots/modal.png)
+![Ponuda](./public/screenshots/ponuda.png)
+![Modal](./public/screenshots/modal.png)
 3. Stranica O nama:
-![O nama](public/screenshots/onama.png)
-![O nama](public/screenshots/onama2.png)
+![O nama](./public/screenshots/onama.png)
+![O nama](./public/screenshots/onama2.png)
 4. Prijava:
-![Prijava](public/screenshots/login.png)
+![Prijava](./public/screenshots/login.png)
 5. Registracija:
-![Registracija](public/screenshots/register.png)
+![Registracija](./public/screenshots/register.png)
 6. Kontakt stranica:
-![Kontakt](public/screenshots/kontakt.png)
-![Kontakt](public/screenshots/kontakt2.png)
+![Kontakt](./public/screenshots/kontakt.png)
+![Kontakt](./public/screenshots/kontakt2.png)
 7. Prikaz prijavljenog korisnika:
-![Račun](public/screenshots/racun.png)
-![Račun](public/screenshots/racun2.png)
+![Račun](./public/screenshots/racun.png)
+![Račun](./public/screenshots/racun2.png)
 8. Admin panel - prikaz rezervacija:
-![Rezervacije](public/screenshots/rezervacije.png)
+![Rezervacije](./public/screenshots/rezervacije.png)
 9. Admin panel - dodavanje, brisanje i prikaz destinacija:
-![Destinacije](public/screenshots/destinacije.png)
+![Destinacije](./public/screenshots/destinacije.png)
 10. Izgled stranice na manjim ekranima:
-![Responzivan dizajn](public/screenshots/responzivandizajn1.png)
-![Responzivan dizajn](public/screenshots/responzivandizajn2.png)
+![Responzivan dizajn](./public/screenshots/responzivandizajn1.png)
+![Responzivan dizajn](./public/screenshots/responzivandizajn2.png)
