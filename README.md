@@ -45,13 +45,15 @@ Root:
 Dizajn se temelji na modernom i responzivnom korisničkom interfejsu. Korišten je fleksibilan raspored (flex i grid layout) koji omogućava uredan prikaz elemenata na desktop i mobilnim uređajima.
 
 Glavne funkcionalnosti:
-1. Responzivnost: dizajn se prilagođava ekranima manjih dimenzija
-2. Navigacija: header sadrži navigacijsku traku (navbar) s pristupom svim stranicama
-3. Početna stranica: pozadinska slika s tamnim slojem i centralno pozicioniranim tekstom i dugmetom poziva na akciju
-4. Sekcije i kartice imaju sjene, zaobljene ivice i animacije za dinamičan izgled
-5. Modalni prozor: koristi poluprozirnu pozadinu i blur efekat za prezentaciju sadržaja u iskačućem prozoru
-6. Forme: elementi imaju focus efekte i vizuelne povratne informacije prilikom unosa podataka
-7. Footer: bijeli tekst na gradijentnoj pozadini
+1. Responzivni dizajn: svi elementi se automatski prilagođavaju različitim veličinama ekrana zahvaljujući kombinaciji flex i grid layouta te medijskim upitima (@media queries).
+2. Navigacija: zaglavlje (header) sadrži poluprozirnu navigacijsku traku s blagim „blur“ efektom i sjenom, što doprinosi elegantnom staklastom izgledu.
+3. Početna stranica: sadrži pozadinsku sliku prekrivenu tamnim „overlay“ slojem i centralno pozicioniranim naslovom, tekstom i dugmetom poziva na akciju.
+4. Sekcije i kartice: svaka sekcija ima svijetlu pozadinu, zaobljene ivice, sjene i lagane animacije na hover, čime se postiže dinamičan i moderan izgled.
+5. Modalni prozor: koristi poluprozirnu pozadinu i efekat zamućenja pozadine (backdrop-filter: blur) za fokusirano prikazivanje sadržaja u iskačućem prozoru.
+6. Forme: polja za unos imaju zaobljene ivice, efekte fokusa i vizuelne povratne informacije pri interakciji (npr. svjetlosni efekat i promjenu boje obruba).
+7. Admin panel i tabele: jednostavan, pregledan prikaz podataka s jasno definisanim zaglavljima i dugmadima u kontrastnoj plavoj boji.
+8. Footer: pozicioniran na dnu stranice s bijelim tekstom i blagim gradijentnim efektom u pozadini.
+9. Animacije i tranzicije: većina interaktivnih elemenata ima glatke prijelaze (transition: all 0.3s ease) za prirodan osjećaj prilikom interakcije.
 
 Paleta boja:
 1. #e96443 primarna boja (pozadinski gradijent, naslovi, dugmad, hover efekti)
@@ -59,7 +61,11 @@ Paleta boja:
 3. #fff (tekst i pozadine nekih sekcija)
 4. #444 (tekst unutar svijetlih sekcija)
 5. #0077cc (dugme na admin panelu)
-6. prozirni slojevi i sjene (rgba bijela ili crna boja)
+6. #005fa3 (hover na dugme na admin panelu)
+7. #ffff00 (boja na hover linkovima)
+8. rgba(255, 255, 255, 0.08 – 0.98) (prozirni bijeli slojevi)
+9. rgba(0, 0, 0, 0.08 – 0.55) (prozirni crni tonovi)
+10. #f8f8f8 / #e5e5e5 / #ccc (svijetlosive nijanse za pozadine zaglavlja tabela, obrube, inpute i linije razdvajanja)
 
 Fontovi:
 1. 'Outfit',sans-serif (osnovni font za tijelo)
