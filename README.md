@@ -59,37 +59,21 @@ Glavne funkcionalnosti:
 7. Footer: bijeli tekst na gradijentnoj pozadini
 
 Paleta boja:
-
-#e96443 primarna boja (pozadinski gradijent, naslovi, dugmad, hover efekti)
-
-#904e95 sekundarna boja (pozadinski gradijent, ikone, naglašeni elementi)
-
-#fff (tekst i pozadine nekih sekcija)
-
-#444 (tekst unutar svijetlih sekcija)
-
-#0077cc (dugme na admin panelu)
-
-prozirni slojevi i sjene (rgba bijela ili crna boja)
+1. #e96443 primarna boja (pozadinski gradijent, naslovi, dugmad, hover efekti)
+2. #904e95 sekundarna boja (pozadinski gradijent, ikone, naglašeni elementi)
+3. #fff (tekst i pozadine nekih sekcija)
+4. #444 (tekst unutar svijetlih sekcija)
+5. #0077cc (dugme na admin panelu)
+6. prozirni slojevi i sjene (rgba bijela ili crna boja)
 
 Fontovi:
-
-'Outfit',sans-serif (osnovni font za tijelo)
-
-'Syne',sans-serif (za logotip i naslove)
+1. 'Outfit',sans-serif (osnovni font za tijelo)
+2. 'Syne',sans-serif (za logotip i naslove)
 
 **Uloge korisnika**
 Postoje dvije glavne uloge korisnika: Admin i Guest. Svaka uloga ima različita prava pristupa i funkcionalnosti u aplikaciji.
-1. Guest:
--može pregledati ponudu destinacija
--može napraviti rezervaciju
--može vidjeti svoje podatke na stranici profil.js
--u navbaru ne vidi opciju AdminPanel pa ne može ni pristupiti toj stranici
-2. Admin:
--u navbaru vidi opciju AdminPanel i jedini ima pristup toj stranici
--ima pregled svih rezervacija korisnika
--može dodavati i brisati destinacije
--može vidjeti sve funckionalnosti dostupne guest korisnicima
+1. Guest: može pregledati ponudu destinacija, može napraviti rezervaciju, može vidjeti svoje podatke na stranici profil.js, u navbaru ne vidi opciju AdminPanel pa ne može ni pristupiti toj stranici
+2. Admin: u navbaru vidi opciju AdminPanel i jedini ima pristup toj stranici, ima pregled svih rezervacija korisnika, može dodavati i brisati destinacije, može vidjeti sve funckionalnosti dostupne guest korisnicima
 Neprijavljeni korisnik može samo pregledati ponudu, ali ne može izvršiti rezervaciju niti pristupiti računu.
 
 **Uputa za pokretanje projekta**
