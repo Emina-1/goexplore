@@ -1,0 +1,495 @@
+{
+  "destinacije": [
+    {
+      "id": "1",
+      "naziv": "ISTANBUL",
+      "slika": "istanbul.jpg",
+      "opis": "Otkrijte Istanbul – grad na dva kontinenta koji spaja historiju, kulturu i moderni duh.\nSmještaj u centru, u četvrti Laleli, idealan je za istraživanje čuvenih znamenitosti poput Aja Sofije, Plave džamije, Hipodroma, Kapali čaršije i Bayazita.\n\nU cijenu aranžmana uključeno je: panoramsko razgledanje grada, posjeta Sultanahmetu i krstarenje Bosforom uz vodiča.\n\nFakultativno (uz doplatu): izleti na Prinčevska ostrva, u Bursu i Edirne, kao i večernji programi s tradicionalnom turskom večerom i muzikom.\n\nSlobodno vrijeme iskoristite za šoping u outletu Venezia, šetnju Taksimom, posjet Uskudaru i impozantnoj Camlica džamiji – i doživite pravu atmosferu Orijenta u modernom ruhu.",
+      "cijena": "385 KM",
+      "trajanje": "7 dana",
+      "dostupni_termini": [
+        "05/10 - 11/10",
+        "20/10 - 26/10",
+        "03/11 - 09/11",
+        "17/11 - 23/11",
+        "01/12 - 07/12",
+        "15/12 - 21/12"
+      ]
+    },
+    {
+      "id": "2",
+      "naziv": "PARIZ",
+      "slika": "pariz.jpg",
+      "opis": "Romantični bijeg u Pariz – grad svjetlosti, umjetnosti i vrhunske gastronomije.\nDoživite ljepotu ovog svjetskog centra mode i kulture kroz posjet čuvenom Louvreu, Trijumfalnoj kapiji i vidikovcu Trocadéro, odakle se pruža nezaboravan pogled na Ajfelov toranj.\n\nU cijenu aranžmana uključeno je: razgledanje najpoznatijih znamenitosti Pariza, obilazak Trga Vendôme, Opere Garnier i šetnja elegantnim avenijama.\n\nFakultativno (uz doplatu): krstarenje Senom, posjeta raskošnom dvorcu Versailles i nezaboravan dan u Disneylandu – savršeno iskustvo za sve generacije.\n\nPrepustite se šarmu francuske prijestolnice, uživajte u romantičnoj atmosferi i otkrijte zašto Pariz nosi titulu najljepšeg grada na svijetu.",
+      "cijena": "799 KM",
+      "trajanje": "4 dana",
+      "dostupni_termini": [
+        "12/12 - 15/12"
+      ]
+    },
+    {
+      "id": "3",
+      "naziv": "RIM-NAPULJ",
+      "slika": "rim.jpg",
+      "opis": "Otkrijte Italiju kroz nezaboravno putovanje koje spaja veličanstveni Rim – vječni grad bezvremenske historije i umjetnosti – sa šarmantnim Napuljem, domom izvrsne kuhinje, mediteranskog duha i čuvenog Vezuva. U Rimu vas očekuje obilazak znamenitosti poput Koloseuma, Foruma Romana, Vatikana, Fontane di Trevi, Piazza di Spagna i Via del Corso, gdje ćete uživati u jedinstvenoj atmosferi i pravom italijanskom gelatu. Nakon razgledanja slijedi smještaj u modernom kompleksu HU Camping Village Roma.\n\nU cijenu aranžmana uključeno je: panoramsko razgledanje Rima, posjeta najpoznatijim znamenitostima i vodič tokom boravka.\n\nFakultativno (uz doplatu): cjelodnevni izlet u Napulj i Pompeje uz Napuljski zaliv, panoramski obilazak Rima (10 EUR), te posjete muzejima i objektima od historijskog značaja.",
+      "cijena": "399 KM",
+      "trajanje": "5 dana",
+      "dostupni_termini": [
+        "10/11 - 15/11",
+        "05/12 - 10/12"
+      ]
+    },
+    {
+      "id": "4",
+      "naziv": "KAPADOKIJA",
+      "slika": "kapadokija.jpg",
+      "opis": "Putovanje kroz bajkovite pejzaže Kapadokije – podzemni gradovi, jedinstvene stijene i nevjerovatne doline.\n\nU cijenu aranžmana uključeno je: \"Sjeverna tzv. crvena tura\" – posjeta zamku Uchisar, vidikovcu iznad grada Göreme, muzeju na otvorenom Göreme (UNESCO), posjeta selu Cavusin i mjestu Avanos, ručak s lokalnim specijalitetima, razgledanje doline Pasabag, Monkovih dolina i doline Devrent.\n\nFakultativno (uz doplatu): let balonom iznad Kapadokije, izlet jahanjem konja kroz doline Ruže i Ljubavi i selo Cavusin, ili dvosatna tura na QUAD motorima za istraživanje najljepših krajolika i nestandardnih ruta kroz Göreme, dolinu Güllüdere, dolinu Love i selo Vuavuşin.\n\nOvaj aranžman pruža uzbudljivo i nezaboravno iskustvo razgledanja, prilagođeno svima koji žele doživjeti Kapadokiju iz drugačije perspektive – bilo s visine balona, na konjima ili na četverotočkašima.",
+      "cijena": "680 KM",
+      "trajanje": "6 dana",
+      "dostupni_termini": [
+        "05/11-10/11",
+        "15/12 - 20/12"
+      ]
+    },
+    {
+      "id": "5",
+      "naziv": "GRAZ-BEČ",
+      "slika": "bec.jpg",
+      "opis": "Otkrijte čaroliju Austrije kroz trodnevno putovanje u Graz i Beč – spoj elegancije, kulture i historije. Beč, nekadašnja prijestolnica moćne Habsburške monarhije, danas je grad muzeja, opere, dvoraca i šarmantnih ulica koje odišu bogatom tradicijom. Uživajte u šetnji Ringstrasse bulevarom, posjetite veličanstveni Hofburg i katedralu Svetog Stefana, a dan završite uz miris bečke kafe i neizostavni sacher kolač. Graz, poznat po slikovitom starom gradu i sat-kuli Schlossberg, pruža savršenu kombinaciju romantike i arhitektonske ljepote.\n\nU cijenu aranžmana uključeno je: prijevoz turističkim autobusom, licenciranog turističkog vodiča, sve razglede prema programu.\n\nCijena aranžmana ne uključuje: ulaznice za muzeje i kulturno-historijske spomenike-Schönbrunn, Albertina, Carska riznica, Prater Riesenrad i karte javnog prijevoza.",
+      "cijena": "270 KM",
+      "trajanje": "3 dana",
+      "dostupni_termini": [
+        "18/10 - 20/10",
+        "24/11 - 26/11",
+        "20/12 - 22/12"
+      ]
+    },
+    {
+      "id": "6",
+      "naziv": "TOSCANA-CINQUE TERRE",
+      "slika": "toskana.jpg",
+      "opis": "Otkrijte čaroliju Toskane – regije beskrajnih vinograda, brežuljaka i gradova koji odišu renesansnim duhom. Univerzitetska Bolonja, veličanstveni srednjevjekovni grad s arkadama i palačama, uvod je u putovanje kroz srce Italije. Upoznajte Firencu, kolijevku umjetnosti i kulture, grad u kojem su stvarali Leonardo da Vinci, Mikelanđelo i Dante. Posjetite Sienu i San Gimignano – srednjevjekovne dragulje poznate po tornjevima, vinima i prepoznatljivoj arhitekturi, te uživajte u šetnji kroz trg Il Campo i veličanstvenu katedralu Duomo. U Pisi vas čeka čuveno ‘Polje čuda’ s Krivim tornjem i katedralom, dok obližnja Luka očarava romaničkom ljepotom i mediteranskom atmosferom. Poseban doživljaj pruža izlet u Cinque Terre – pet slikovitih ribarskih sela smještenih na liticama Ligurske obale, povezanih pješačkim stazama i obasjanih bojama mora i sunca.\n\nCijena aranžmana ne uključuje: fakultativne izlete (Firenca, Siena, San Gimignano, Pisa i Cinque Terre), ulaznice za muzeje i kulturno-historijske objekte.",
+      "cijena": "329 KM",
+      "trajanje": "6 dana",
+      "dostupni_termini": [
+        "25/10 - 30/10",
+        "10/11 - 15/11"
+      ]
+    },
+    {
+      "id": "7",
+      "naziv": "VENECIJA-VERONA",
+      "slika": "venecija.jpg",
+      "opis": "Doživite romantični sjever Italije kroz čarobni spoj Venecije, Verone i Padove – gradova koji odišu historijom, umjetnošću i bezvremenskim šarmom. Putovanje započinje u Veneciji, jedinstvenom gradu na vodi, gdje ćete prošetati čuvenim Trgom Svetog Marka, vidjeti Duždevu palatu, Baziliku Sv. Marka, most Rialto i kanal Grande. Smještaj grupe predviđen je u kampu HU Camping Venezia, u blizini grada.\n\nSljedećeg dana slijedi fakultativni izlet u Veronu – grad Romea i Julije. Uživajte u šetnji kroz Trg Bra, pored antičke Arene, Via Mazzini i Trga Signoria sa spomenikom Danteu Alighieriju, te posjetite Julijinu kuću. Nakon toga, mogućnost fakultativnog odlaska u Padovu, grad bogate duhovne i umjetničke tradicije. Obiđite Trg Prato della Valle, Baziliku Sv. Antuna, Krstionicu i Palazzo della Regione. Za kraj, predviđena je posjeta Vicenzi – elegantnom gradu čuvenog arhitekte Andree Palladija, poznatom po Bazilici Palladiana i Teatru Olimpico.",
+      "cijena": "209 KM",
+      "trajanje": "5 dana",
+      "dostupni_termini": [
+        "20/10 - 24/10",
+        "08/11 - 12/11",
+        "22/12 - 26/12"
+      ]
+    },
+    {
+      "id": "8",
+      "naziv": "BARCELONA",
+      "slika": "barcelona.png",
+      "opis": "Doživite magičnu Barcelonu – grad umjetnosti, mora i strasti! Smještena između Mediterana i planina, prijestonica Katalonije očarava svojom jedinstvenom arhitekturom Antonija Gaudíja, šarenim ulicama i živopisnim atmosferama. Obilazak obuhvata najpoznatije znamenitosti: čuvenu katedralu Sagrada Familia, trg Plaza Catalunya, ulicu La Rambla, stadion Camp Nou, Park Güell i brdo Montjuïc s prekrasnim panoramskim pogledom na grad. Slobodno vrijeme možete provesti u čarobnom primorskom gradiću Lloret de Mar, poznatom po pješčanim plažama, noćnom životu i opuštenom mediteranskom duhu.\n\nCijena aranžmana ne uključuje fakultativne izlete: Flamenco la Masia, Barcelona panoramica, Barcelona Gothic+shopping, Costa Brava.\n\nDopustite da vas Barcelona osvoji spojem kulture, umjetnosti, mora i zabave – savršenim odmorom za dušu i tijelo!",
+      "cijena": "799 KM",
+      "trajanje": "4 dana",
+      "dostupni_termini": [
+        "25/10 - 28/10",
+        "07/12 - 10/12"
+      ]
+    },
+    {
+      "id": "55",
+      "naziv": "MONACO-NICA-CANNES",
+      "slika": "monaco.jpg",
+      "opis": "Doživite glamuroznu Francusku rivijeru – spoj luksuza, mora i mediteranskog šarma! Obilazak Nice, prijestonice Rivijere – Promenade des Anglais, Stari grad i Place Masséna. Nastavak putovanja ka Monaku, poznatom po Kraljevskoj palati, katedrali i čuvenoj kockarnici Monte Carlo. Slobodno vrijeme za uživanje u pogledu na luku i luksuzne jahte.\n\nPosjet Kanu, gradu svjetskog filmskog festivala, šetnja Boulevardom de la Croisette i starim dijelom grada Le Suquet.\n\nFakultativni izleti: vožnja brodom uz Azurnu obalu, veče u Monaku.\n\nPutovanje koje spaja eleganciju, more i mediteransku opuštenost – savršeno za zimski ili proljetni odmor.",
+      "cijena": "489 KM",
+      "trajanje": "6 dana",
+      "dostupni_termini": [
+        "25/10 - 30/10",
+        "07/11 - 12/11",
+        "20/11 - 26/11"
+      ]
+    },
+    {
+      "id": "9",
+      "naziv": "PRAG",
+      "slika": "prag.jpg",
+      "opis": "Prag – grad stotinu tornjeva, Zlatni grad, biser srednje Evrope! Njegova romantična atmosfera, impresivna arhitektura i bogata historija oduvijek očaravaju posjetioce. Prošetajte Karlovim mostom, divite se veličanstvenom Praškom dvorcu, doživite čar Staromestskog trga i čuveni astronomski sat Orloj. Ulice Praga odišu umjetnošću i pričama o slavnim ličnostima poput Mozarta, Kafke i Beethovena, a poznate pivnice i restorani nude nezaboravan ugođaj uz tradicionalno češko pivo.\n\nCijena aranžmana ne uključuje fakultativne izlete:\n• Obilazak grada 'Zlatni Prag kroz vrijeme' – trg Republike, Obecni dum, Praška brana, Staromestski trg, Orloj, Katedrala sv. Tyna, Vaclavski trg, Narodni muzej.\n• Krstarenje rijekom Vltavom – romantičan doživljaj noćnog Praga.\n• Fakultativni izlet u Beč – panoramski obilazak grada: Bečki ring, trg Marije Terezije, Parlament, Rathaus, Hofburg i Katedrala sv. Stefana.",
+      "cijena": "300 KM",
+      "trajanje": "4 dana",
+      "dostupni_termini": [
+        "19/10 - 22/10",
+        "05/11 - 08/11",
+        "14/12 - 17/12"
+      ]
+    },
+    {
+      "id": "10",
+      "naziv": "BUDIMPEŠTA",
+      "slika": "budimpesta.jpg",
+      "opis": "Budimpešta – Grad koji oduzima dah, smješten na obalama veličanstvenog Dunava, poznat po raskošnim mostovima, Kraljevskoj palati i bogatoj carskoj istoriji.\nUživajte u prepoznatljivoj atmosferi grada koji spaja eleganciju i živahni duh. Šetnja čuvenom Vaci ulicom, panoramski pogled sa Citadele i impresivna arhitektura zgrade Parlamenta ostaviće vas bez daha.\nNezaboravan doživljaj pruža večernje krstarenje Dunavom, dok se svjetla grada presijavaju na vodi.\nZa ljubitelje prirode i egzotike – besplatan odlazak u tržni centar Campona uz posjetu Tropikarijumu, fascinantnom svijetu tropskih životinja i morskih ajkula.\n\nFakultativni izleti: panoramski obilazak Budimpešte sa vodičem-Trg heroja, Parlament, Ribarska tvrđava, Citadela.",
+      "cijena": "240 KM",
+      "trajanje": "5 dana",
+      "dostupni_termini": [
+        "02/11 - 06/11",
+        "30/11 - 04/12",
+        "17/12 - 21/12"
+      ]
+    },
+    {
+      "id": "11",
+      "naziv": "MILANO-GENOVA",
+      "slika": "milano.png",
+      "opis": "Doživite šarm sjeverne Italije i Švicarske kroz nezaboravno putovanje u Milano, Genovu i Lugano – regiju u kojoj se elegancija, prirodna ljepota i kulturno bogatstvo savršeno isprepliću. Posjetite modni i kulturni centar Milano, prošetajte do znamenite katedrale Duomo i uživajte u čuvenom shoppingu u Galleria Vittorio Emanuele II. Upoznajte šarmantnu luku Genovu i njene slikovite ulice, te otkrijte mir i ljepotu jezera Lugano, okruženog alpskim pejzažima i parkovima poput vile Ciani. \n\nU cijenu aranžmana uključeno je: obilazak Milana, Genove i Lugana, razgledanje glavnog gradskog trga Della Riforma, crkve San Roco i Santa Maria Degli Angioli, kao i šetnja parkom vile Ciani. \n\n Fakultativno (uz doplatu): izlet do čarobnih jezera Como i Garda, posjeta slikovitom gradiću Sirmione i utvrdama Scaligeri, te shopping u poznatom outlet centru Serravalle.",
+      "cijena": "410 KM",
+      "trajanje": "6 dana",
+      "dostupni_termini": [
+        "21/11 - 26/11",
+        "19/12 - 24/12"
+      ]
+    },
+    {
+      "id": "14",
+      "naziv": "DUBROVNIK",
+      "slika": "dubrovnik.jpg",
+      "opis": "Dubrovnik – Perla Jadrana i grad pod UNESCO-vom zaštitom, poznat po svojim zidinama, uskim ulicama i bogatoj istoriji.\nObilazak Dubrovnika u pratnji vodiča: Stradun, Gradske zidine, Lovrijenac, Orlandov stup i katedrala. Uživajte u šetnji starim gradom bez ljetnih gužvi i iskoristite priliku za fotografisanje u mirnoj, zimskoj atmosferi.\nSlobodno vrijeme za uživanje u lokalnoj kuhinji, kafićima i šarmu zimskih ulica.\n\nFakultativni izleti:\n- Panoramska vožnja žičarom na brdo Srđ za spektakularan pogled na grad i Jadransko more.",
+      "cijena": "50 KM",
+      "trajanje": "JEDNODNEVNI IZLET",
+      "dostupni_termini": [
+        "23/11",
+        "20/12",
+        "27/12",
+        "29/12"
+      ]
+    },
+    {
+      "id": "15",
+      "naziv": "SPLIT-TROGIR",
+      "slika": "split.jpg",
+      "opis": "Split i Trogir – Otkrijte ljepotu dalmatinske obale kroz dva povijesna grada u jednom danu.\nObilazak Splita u pratnji vodiča: Dioklecijanova palača, Riva, katedrala Sv. Duje i uske srednjovjekovne ulice.\nFakultativni odlazak do Trogira: šetnja gradskom jezgrom pod zaštitom UNESCO-a, posjeta katedrali Sv. Lovre, gradskoj tvrđavi Kamerlengo i trgu Ivana Pavla II.\n\nFakultativni izleti:\n- Trogir – panoramski obilazak sa vodičem i slobodno vrijeme za šetnju i fotografisanje\n- Vožnja brodom uz obalu Splita i Trogira",
+      "cijena": "55 KM",
+      "trajanje": "JEDNODNEVNI IZLET",
+      "dostupni_termini": [
+        "02/10"
+      ]
+    },
+    {
+      "id": "16",
+      "naziv": "ZAGREB ADVENT",
+      "slika": "zagreb.png",
+      "opis": "Zagreb Advent – Magična zimska bajka u srcu Hrvatske! Doživite jedinstvenu prazničnu atmosferu na najljepšem adventu u regiji.\nŠetnja okićenim ulicama, miris kuhanog vina, božićne pjesme i bezbroj svjetlucavih lampica stvaraju nezaboravan ugođaj.\nUživajte u druženju, slikanju i prazničnim delicijama na brojnim adventskim lokacijama.\n\n- Panoramski obilazak Zagreba sa vodičem (Katedrala, Trg bana Jelačića, Gornji grad, Kamenita vrata)\n- Slobodno vrijeme za uživanje na adventskim sajmovima.",
+      "cijena": "50 KM",
+      "trajanje": "JEDNODNEVNI IZLET",
+      "dostupni_termini": [
+        "20/12",
+        "23/12",
+        "29/12"
+      ]
+    },
+    {
+      "id": "17",
+      "naziv": "LJUBLJANA-TRST",
+      "slika": "ljubljana.jpg",
+      "opis": "Ljubljana, Trst i Bled – Doživite šarm slovenskog glavnog grada, talijanskog primorskog dragulja i bajkovitog Bleda u jednom nezaboravnom izletu.\nObilazak Ljubljane u pratnji vodiča: Prešernov trg, katedrala Sv. Nikole, Rotovž – Gradska kuća sa malim zvonikom, Zmajski most – jedan od najvoljenijih simbola grada.\nFakultativni odlazak do Trsta: posjetite prelijepi grad na sjeveroistoku Italije, poznat kao „Beč na moru“. Obilazak Trsta u pratnji vodiča: kanal Grande, Ponte Rosso, crkva Svetog Spiridona, Trg Ujedinjenja Italije.\nFakultativni izlet do Bleda: ledenjačko jezero okruženo moćnim planinama, otočić s crkvom i tisućljetni dvorac na stijeni – prizor koji ostaje u pamćenju.",
+      "cijena": "150 KM",
+      "trajanje": "2 DANA",
+      "dostupni_termini": [
+        "15/11 - 16/11",
+        "08/12 - 09/12",
+        "22/12 - 23/12"
+      ]
+    },
+    {
+      "id": "18",
+      "naziv": "AMSTERDAM",
+      "slika": "amsterdam.jpg",
+      "opis": "Amsterdam – grad kanala, bicikala i muzeja, poznat po bogatoj historiji, arhitekturi i živahnoj atmosferi.\nObilazak grada u pratnji vodiča: Dam trg, Kraljevska palata, Rijksmuseum, Muzej Van Gogha, historijski kanalni prsten i čuveni mostovi. Uživajte u šetnjama pored kanala, slikovitim ulicama i šarmantnim kafićima.\n\nFakultativni izleti:\n- Krstarenje kanalima Amsterdama\n- Posjeta kući Ane Frank\n- Izlet u Zaanse Schans i Volendam – tradicionalna holandska sela i vjetrenjače\n- Degustacija sira i lokalnih specijaliteta",
+      "cijena": "350 KM",
+      "trajanje": "4 dana",
+      "dostupni_termini": [
+        "11/10 - 14/10",
+        "01/11 - 04/12"
+      ]
+    },
+    {
+      "id": "19",
+      "naziv": "PULA-RIJEKA-OPATIJA",
+      "slika": "pula.webp",
+      "opis": "Doživite eleganciju Opatije, antički sjaj Pule i netaknutu prirodu Brijuna!\nU Rijeci uživajte u šetnji Korzom i znamenitostima grada.\nOpatija vas očarava Lungomareom i statuom “Djevojka sa galebom”.\nFakultativni izlet u Pulu uključuje Arenu, Avgustov hram i Forum, dok Nacionalni park Brijuni možete obići vozićem uz stručno vodstvo.\n\nFakultativno:\n- Izlet u Pulu (ulaz u Arenu i Avgustov hram se doplaćuje)\n- Razgledanje NP Brijuni vozićem",
+      "cijena": "300 KM",
+      "trajanje": "3 dana",
+      "dostupni_termini": [
+        "01/11 - 03/11",
+        "23/11 - 25/11"
+      ]
+    }
+  ],
+  "korisnici": [
+    {
+      "id": "a1f2",
+      "ime": "Emina Kaknjo",
+      "email": "eminakaknjo17@gmail.com",
+      "lozinka": "1163",
+      "potvrdaLozinke": "1163",
+      "brojTelefona": "061234567",
+      "datumRodjenja": "2003-05-14",
+      "uloga": "Admin"
+    },
+    {
+      "id": "b2e4",
+      "ime": "Lejla Kaknjo",
+      "email": "lejlak@hotmail.com",
+      "lozinka": "hahahaha",
+      "potvrdaLozinke": "hahahaha",
+      "brojTelefona": "062998877",
+      "datumRodjenja": "2008-07-18",
+      "uloga": "Admin"
+    },
+    {
+      "id": "c3d6",
+      "ime": "Admin 1",
+      "email": "admin123@gmail.com",
+      "lozinka": "admin99",
+      "potvrdaLozinke": "admin99",
+      "brojTelefona": "0605578902",
+      "datumRodjenja": "2000-10-31",
+      "uloga": "Admin"
+    },
+    {
+      "id": "d4e8",
+      "ime": "Amir Hadžić",
+      "email": "amir.hadzic@gmail.com",
+      "lozinka": "amir123",
+      "potvrdaLozinke": "amir123",
+      "brojTelefona": "062111222",
+      "datumRodjenja": "1999-09-02",
+      "uloga": "Guest"
+    },
+    {
+      "id": "e5f0",
+      "ime": "Sara Begić",
+      "email": "sara.begic@gmail.com",
+      "lozinka": "sara22",
+      "potvrdaLozinke": "sara22",
+      "brojTelefona": "061555666",
+      "datumRodjenja": "2002-12-10",
+      "uloga": "Guest"
+    },
+    {
+      "id": "f6a1",
+      "ime": "Nermin Alić",
+      "email": "nermin.alic@gmail.com",
+      "lozinka": "nermin44",
+      "potvrdaLozinke": "nermin44",
+      "brojTelefona": "063222333",
+      "datumRodjenja": "1998-03-25",
+      "uloga": "Guest"
+    },
+    {
+      "id": "g7b2",
+      "ime": "Elma Zukić",
+      "email": "elma.zukic@gmail.com",
+      "lozinka": "elma55",
+      "potvrdaLozinke": "elma55",
+      "brojTelefona": "061789456",
+      "datumRodjenja": "2001-01-11",
+      "uloga": "Guest"
+    },
+    {
+      "id": "h8c3",
+      "ime": "Tarik Hodžić",
+      "email": "tarik.hodzic@gmail.com",
+      "lozinka": "tarik77",
+      "potvrdaLozinke": "tarik77",
+      "brojTelefona": "062456987",
+      "datumRodjenja": "1997-08-22",
+      "uloga": "Guest"
+    },
+    {
+      "id": "i9d4",
+      "ime": "Maja Kovačević",
+      "email": "maja.kovacevic@gmail.com",
+      "lozinka": "maja88",
+      "potvrdaLozinke": "maja88",
+      "brojTelefona": "065874123",
+      "datumRodjenja": "2000-04-19",
+      "uloga": "Guest"
+    },
+    {
+      "id": "j0e5",
+      "ime": "Haris Delić",
+      "email": "haris.delic@gmail.com",
+      "lozinka": "haris11",
+      "potvrdaLozinke": "haris11",
+      "brojTelefona": "060789654",
+      "datumRodjenja": "1996-06-30",
+      "uloga": "Guest"
+    },
+    {
+      "id": "k1f6",
+      "ime": "Selma Krlić",
+      "email": "selma.krlic@gmail.com",
+      "lozinka": "selma33",
+      "potvrdaLozinke": "selma33",
+      "brojTelefona": "063321654",
+      "datumRodjenja": "2004-11-05",
+      "uloga": "Guest"
+    },
+    {
+      "id": "l2g7",
+      "ime": "Edin Mehić",
+      "email": "edin.mehic@gmail.com",
+      "lozinka": "edin44",
+      "potvrdaLozinke": "edin44",
+      "brojTelefona": "062741963",
+      "datumRodjenja": "1995-10-10",
+      "uloga": "Guest"
+    },
+    {
+      "id": "m3h8",
+      "ime": "Amina Smajić",
+      "email": "amina.smajic@gmail.com",
+      "lozinka": "amina77",
+      "potvrdaLozinke": "amina77",
+      "brojTelefona": "061963852",
+      "datumRodjenja": "2003-02-12",
+      "uloga": "Guest"
+    }
+  ],
+  "rezervacije": [
+  {
+    "id": "r001",
+    "korisnik": {
+      "ime": "Amir Hadžić",
+      "email": "amir.hadzic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 1,
+      "naziv": "ISTANBUL"
+    },
+    "termin": "15/12 - 21/12"
+  },
+  {
+    "id": "r002",
+    "korisnik": {
+      "ime": "Sara Begić",
+      "email": "sara.begic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 2,
+      "naziv": "PARIZ"
+    },
+    "termin": "12/12 - 15/12"
+  },
+  {
+    "id": "r003",
+    "korisnik": {
+      "ime": "Nermin Alić",
+      "email": "nermin.alic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 3,
+      "naziv": "RIM - NAPULJ"
+    },
+    "termin": "10/11 - 15/11"
+  },
+  {
+    "id": "r004",
+    "korisnik": {
+      "ime": "Elma Zukić",
+      "email": "elma.zukic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 4,
+      "naziv": "KAPADOKIJA"
+    },
+    "termin": "15/12 - 20/12"
+  },
+  {
+    "id": "r005",
+    "korisnik": {
+      "ime": "Tarik Hodžić",
+      "email": "tarik.hodzic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 5,
+      "naziv": "GRAZ - BEČ"
+    },
+    "termin": "24/11 - 26/11"
+  },
+  {
+    "id": "r006",
+    "korisnik": {
+      "ime": "Maja Kovačević",
+      "email": "maja.kovacevic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 6,
+      "naziv": "BARCELONA"
+    },
+    "termin": "07/12 - 10/12"
+  },
+  {
+    "id": "r007",
+    "korisnik": {
+      "ime": "Haris Delić",
+      "email": "haris.delic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 7,
+      "naziv": "VENECIJA - VERONA"
+    },
+    "termin": "08/11 - 12/11"
+  },
+  {
+    "id": "r008",
+    "korisnik": {
+      "ime": "Selma Krlić",
+      "email": "selma.krlic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 8,
+      "naziv": "BUDIMPEŠTA"
+    },
+    "termin": "30/11 - 04/12"
+  },
+  {
+    "id": "r009",
+    "korisnik": {
+      "ime": "Edin Mehić",
+      "email": "edin.mehic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 9,
+      "naziv": "PRAG"
+    },
+    "termin": "14/12 - 17/12"
+  },
+  {
+    "id": "r010",
+    "korisnik": {
+      "ime": "Amina Smajić",
+      "email": "amina.smajic@gmail.com",
+      "uloga": "Guest"
+    },
+    "destinacija": {
+      "id": 10,
+      "naziv": "MILANO - GENOVA"
+    },
+    "termin": "21/11 - 26/11"
+  }
+] 
+}
