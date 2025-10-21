@@ -24,6 +24,7 @@ Aplikacija koristi lokalnu bazu podataka (db.json) za čuvanje informacija o kor
 
 **Opis strukture projekta**
 Root:
+
 1. src/
    
     Components (Destinace.js, Rezervacija.js, Header.js, Footer.js, pozadina.avif)
